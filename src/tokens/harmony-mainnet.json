@@ -63,4 +63,12 @@
     "decimals": 16,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/DJJ.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+    "symbol": "XYA",
+    "name": "Freyala",
+    "decimals": 18,
+    "logoURI": "https://media.discordapp.net/attachments/847740317104603166/847740472083742760/XYA.png"
+  }
 ]
